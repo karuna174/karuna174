@@ -6,8 +6,8 @@
 I'm a fresher interested in software development, problem-solving, and building practical applications.
 
 ### 🛠️ Technical Skills
-- **Programming:** Python, JavaScript 
-- **Web Development:** HTML, CSS, Reactjs
+- **Programming:** Python
+- **Web Development:** HTML, CSS,, JavaScript , Reactjs
 - **Database:** MySQL, SQL
 - **Core Concepts:** OOP, Data Structures and Algorithms
 - **Tools:** Git, GitHub
